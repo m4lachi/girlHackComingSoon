@@ -1,4 +1,4 @@
-# 👑 GIRLHACKS 2025 — Coming Soon Page
+# GIRLHACKS 2025 — Coming Soon Page
 
 This is the official "Coming Soon" placeholder website for **GIRLHACKS 2025**, a women-centered hackathon hosted by WiCS @ NJIT.  
 The site introduces the event, displays key information (date, socials), and serves as a landing page until the full website is launched.
@@ -29,8 +29,4 @@ The site introduces the event, displays key information (date, socials), and ser
 - CSS3
 - Google Fonts: `Cinzel`, `Rosarivo`
 - Icons from [Icons8](https://icons8.com)
-
----
-
-## 📁 Folder Structure
 
