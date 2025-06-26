@@ -7,7 +7,7 @@ The site introduces the event, displays key information (date, socials), and ser
 
 ## 🖼 Live Preview
 
-[Add your Netlify/Vercel/GitHub Pages link here once deployed]
+[Click Here to See the Site](https://m4lachi.github.io/girlHackComingSoon/)
 
 ---
 
